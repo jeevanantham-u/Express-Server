@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "scripts": {
     "watch": "nodemon server.js"
   },
